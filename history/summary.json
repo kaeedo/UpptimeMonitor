@@ -1,7 +1,7 @@
 [
   {
     "name": "Hashset",
-    "url": "https://hashset.dev",
+    "url": "https://hashset.dev/articles",
     "icon": "https://favicons.githubusercontent.com/hashset.dev",
     "slug": "hashset",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 660,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "time": 722,
+    "timeDay": 722,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   }
 ]
